@@ -5,7 +5,7 @@
 </script>
 
 <h1>Welcome to a vercel test about loading files in a node module.</h1>
-<p>THe error is:</p>
+<p>The deployed error is: Error: ENOENT: no such file or directory, open '/var/task/node_modules/security-context/contexts/security-v1.jsonld'</p>
 
 <p>Data: {data.contexts.size}</p>
 <ul>
